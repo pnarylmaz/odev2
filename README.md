@@ -1,3 +1,3 @@
 # index.html eklendi 
-# Hakkımda kısmı düzenlendi 
-# Githuba yüklendi
+ Hakkımda kısmı düzenlendi 
+ Githuba yüklendi
